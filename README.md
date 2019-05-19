@@ -1,8 +1,8 @@
 # Motion-Estimation
 
-This code performs motion estimation on an input video using the macroblock matching method. The result is an output video which
-contains dots on parts of each frame, indicating that the block in that part of the frame has a large displacement
-value. To run the code in a jupyter notebook, you must first ensure that you have Ananconda and Python installed on your machine. 
+This code performs motion estimation on an input video using the macroblock matching method (read more about macroblock matching here: https://en.wikipedia.org/wiki/Block-matching_algorithm). 
+
+The result is an output video which contains dots on parts of each frame, indicating that the block in that part of the frame has a large displacement value. To run the code in a jupyter notebook, you must first ensure that you have Ananconda and Python installed on your machine. 
 
 To apply the motion estimation algorithm on a video, you must first choose a video of your choice. Then, change the 'path_to_vid'
 variable in the third cell of the notebook to the path of where your video is located. You will also need to change the variable
