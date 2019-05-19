@@ -1,4 +1,4 @@
-# Motion-Estimation
+# Motion Estimation with Macroblock Matching
 
 This code performs motion estimation on an input video using the macroblock matching method (read more about macroblock matching here: https://en.wikipedia.org/wiki/Block-matching_algorithm). 
 
@@ -8,3 +8,5 @@ To apply the motion estimation algorithm on a video, you must first choose a vid
 variable in the third cell of the notebook to the path of where your video is located. You will also need to change the variable
 'frame_save_path' to the destination of where you want to save the edited frames. Additionally, change the path to where you would 
 like to save the output video by modifying the 'output_vid_path' variable. Finally, simply run the code and see what happens! 
+
+![Alt text](https://github.com/EileenWang1996/Motion-Estimation/blob/master/frame_example.tif)
