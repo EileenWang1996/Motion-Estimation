@@ -11,6 +11,11 @@ like to save the output video by modifying the 'output_vid_path' variable. Final
 
 Examples of output frames: 
 
-![frame_example](https://user-images.githubusercontent.com/35329219/57976954-2c31f080-7a30-11e9-9f53-9b051529bd2f.jpg style = centerme)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35329219/57976954-2c31f080-7a30-11e9-9f53-9b051529bd2f.jpg">
+</p>
 
-![frame_example2](https://user-images.githubusercontent.com/35329219/57976958-44097480-7a30-11e9-9df2-75f81a5095a6.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35329219/57976958-44097480-7a30-11e9-9df2-75f81a5095a6.jpg">
+</p>
+
