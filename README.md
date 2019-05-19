@@ -10,6 +10,7 @@ variable in the third cell of the notebook to the path of where your video is lo
 like to save the output video by modifying the 'output_vid_path' variable. Finally, simply run the code and see what happens! 
 
 Examples of output frames: 
+
 ![frame_example](https://user-images.githubusercontent.com/35329219/57976954-2c31f080-7a30-11e9-9f53-9b051529bd2f.jpg)
 
 ![frame_example2](https://user-images.githubusercontent.com/35329219/57976958-44097480-7a30-11e9-9df2-75f81a5095a6.jpg)
