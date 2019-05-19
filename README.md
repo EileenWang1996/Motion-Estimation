@@ -9,4 +9,4 @@ variable in the third cell of the notebook to the path of where your video is lo
 'frame_save_path' to the destination of where you want to save the edited frames. Additionally, change the path to where you would 
 like to save the output video by modifying the 'output_vid_path' variable. Finally, simply run the code and see what happens! 
 
-![ScreenShot](https://github.com/EileenWang1996/Motion-Estimation/blob/master/frame_example.tif "Description")
+![ScreenShot](https://raw.githubusercontent.com/EileenWang1996/Motion-Estimation/blob/master/frame_example.tif "Description")
